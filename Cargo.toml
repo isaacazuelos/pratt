@@ -1,0 +1,6 @@
+[package]
+name = "pratt"
+version = "0.1.0"
+authors = ["Isaac Azuelos <isaac@azuelos.ca>"]
+
+[dependencies]
