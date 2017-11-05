@@ -11,3 +11,4 @@ than JavaScript for this.
 
 [paper]: http://tdop.github.io
 [oil]: http://www.oilshell.org/blog/2016/11/02.html
+[java]: http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/

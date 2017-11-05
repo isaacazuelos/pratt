@@ -35,7 +35,7 @@ fn main() {
 
     let mut parser = pratt::sample_parser();
     parser.load_input(tokens);
-    let ast = parser.expression();
+    let ast = parser.expression(0);
     println!("parses to: {:?}", ast);
 
     // let result = eval(ast);
